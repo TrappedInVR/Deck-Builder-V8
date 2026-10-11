@@ -1,0 +1,2093 @@
+
+EDHREC
+Articles
+Cards
+Commanders
+Precons
+Sets
+Tags
+Search
+FAQ
+Games
+ Merch
+Newsletter
+Patreon
+Recs
+ 
+This page includes only decks with user-set brackets. Auto-detected brackets are not included.
+Urza, Lord High Artificer (Commander) - Upgraded
+Alternate Names:
+
+Terra Branford
+
+Urza, Lord High Artificer
+Urza, Lord High ArtificerSalt Score
+$19.99
+$15.06
+$14.48
+Rank #69
+1,003
+decks
+Bracket
+Budget
+Tags
+More Tags...
+Julia Maddalena
+Sep 18, 2026
+Julia Maddalena
+Fire and Ice: Which Cards Are Hot and Cold for Arcum Dagsson?
+The cards heating up and cooling off in cEDH Arcum Dagsson decks, from H.E.R.B.I.E. and Sewer-veillance Cam to counterspells losing ground.
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Deck Filters
+
+With
+Card name
+×Clear
+
+Creatures
+
+≥
+Number
+Cardsphere
+
+
+
+New Cards
+Top Cards
+High Lift Cards
+Creatures
+Instants
+Sorceries
+Utility Artifacts
+Enchantments
+Planeswalkers
+Utility Lands
+Mana Artifacts
+Lands
+Back to Top
+New Cards
+ Group by
+ Sort by
+ Card Filters
+Fateful Discovery
+Fateful DiscoveryHOT
+$3.99
+$3.61
+$2.90
+23%
+inclusion
+56 decks
+246 decks
+5.0x
+lift
+Geist of Saint Thalia
+Geist of Saint ThaliaHOT
+$2.49
+$0.96
+$0.40
+8.7%
+inclusion
+11 decks
+126 decks
+0.9x
+lift
+Memnarch, the Warden
+Memnarch, the WardenHOT
+$2.49
+$1.02
+$0.60
+8.2%
+inclusion
+9 decks
+110 decks
+3.7x
+lift
+Samut, Tyrant of Naktamun
+Samut, Tyrant of NaktamunHOT
+$9.99
+$7.88
+$6.77
+3.7%
+inclusion
+4 decks
+109 decks
+0.7x
+lift
+Darksteel Angel
+Darksteel AngelNEW
+$4.49
+$4.63
+$3.06
+3.6%
+inclusion
+10 decks
+275 decks
+3.5x
+lift
+Top Cards
+Counterspell
+74%
+inclusion
+747 decks
+1K decks
+1.1x
+lift
+Etherium Sculptor
+67%
+inclusion
+674 decks
+1K decks
+4.0x
+lift
+Sai, Master Thopterist
+65%
+inclusion
+653 decks
+1K decks
+5.5x
+lift
+Foundry Inspector
+63%
+inclusion
+631 decks
+1K decks
+4.5x
+lift
+Unwinding Clock
+61%
+inclusion
+610 decks
+1K decks
+6.0x
+lift
+Sapphire Medallion
+53%
+inclusion
+532 decks
+1K decks
+0.8x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Fabricate
+52%
+inclusion
+525 decks
+1K decks
+2.7x
+lift
+Mystic Forge
+51%
+inclusion
+511 decks
+1K decks
+5.3x
+lift
+Emry, Lurker of the Loch
+50%
+inclusion
+506 decks
+1K decks
+4.1x
+lift
+Padeem, Consul of Innovation
+49%
+inclusion
+491 decks
+1K decks
+4.9x
+lift
+High Lift Cards
+Storage Matrix
+5.1%
+inclusion
+51 decks
+1K decks
+15x
+lift
+Winter Orb
+5.3%
+inclusion
+53 decks
+1K decks
+14x
+lift
+Voyager Staff
+5.3%
+inclusion
+53 decks
+1K decks
+13x
+lift
+Urza's Command
+10%
+inclusion
+99 decks
+1K decks
+12x
+lift
+Genesis Chamber
+5.6%
+inclusion
+56 decks
+1K decks
+11x
+lift
+Battered Golem
+6.4%
+inclusion
+64 decks
+1K decks
+11x
+lift
+Karn, Scion of Urza
+12%
+inclusion
+123 decks
+1K decks
+11x
+lift
+Prized Statue
+6.5%
+inclusion
+65 decks
+1K decks
+10x
+lift
+Pithing Needle
+9.1%
+inclusion
+91 decks
+1K decks
+9.4x
+lift
+Drafna, Founder of Lat-Nam
+18%
+inclusion
+176 decks
+1K decks
+8.4x
+lift
+Creatures
+The Reality Chip
+46%
+inclusion
+466 decks
+1K decks
+4.1x
+lift
+Thought Monitor
+46%
+inclusion
+465 decks
+1K decks
+3.8x
+lift
+Phyrexian Metamorph
+45%
+inclusion
+456 decks
+1K decks
+2.3x
+lift
+Forensic Gadgeteer
+45%
+inclusion
+448 decks
+1K decks
+5.2x
+lift
+Ornithopter
+41%
+inclusion
+416 decks
+1K decks
+5.8x
+lift
+Hullbreaker Horror
+41%
+inclusion
+415 decks
+1K decks
+1.9x
+lift
+Cyberdrive Awakener
+34%
+inclusion
+346 decks
+1K decks
+4.7x
+lift
+Kappa Cannoneer
+34%
+inclusion
+340 decks
+1K decks
+3.4x
+lift
+Spellskite
+32%
+inclusion
+320 decks
+1K decks
+3.1x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Displacer Kitten
+31%
+inclusion
+310 decks
+1K decks
+3.2x
+lift
+Vedalken Archmage
+29%
+inclusion
+295 decks
+1K decks
+5.0x
+lift
+Shimmer Myr
+29%
+inclusion
+292 decks
+1K decks
+4.9x
+lift
+Solemn Simulacrum
+29%
+inclusion
+288 decks
+1K decks
+1.4x
+lift
+Liberator, Urza's Battlethopter
+26%
+inclusion
+260 decks
+1K decks
+5.0x
+lift
+Trinket Mage
+24%
+inclusion
+239 decks
+1K decks
+2.6x
+lift
+Myr Battlesphere
+23%
+inclusion
+231 decks
+1K decks
+6.7x
+lift
+Master Transmuter
+22%
+inclusion
+225 decks
+1K decks
+4.6x
+lift
+Master of Etherium
+21%
+inclusion
+212 decks
+1K decks
+4.3x
+lift
+Walking Ballista
+21%
+inclusion
+208 decks
+1K decks
+5.0x
+lift
+Steel Overseer
+19%
+inclusion
+192 decks
+1K decks
+4.1x
+lift
+Trophy Mage
+19%
+inclusion
+190 decks
+1K decks
+2.9x
+lift
+Jhoira's Familiar
+18%
+inclusion
+185 decks
+1K decks
+3.7x
+lift
+Deadeye Navigator
+18%
+inclusion
+181 decks
+1K decks
+3.7x
+lift
+Silver Myr
+17%
+inclusion
+175 decks
+1K decks
+1.7x
+lift
+Tribute Mage
+17%
+inclusion
+173 decks
+1K decks
+2.5x
+lift
+Karn, Legacy Reforged
+16%
+inclusion
+162 decks
+1K decks
+6.4x
+lift
+Whirler Rogue
+15%
+inclusion
+155 decks
+1K decks
+4.4x
+lift
+Shuri, Wakandan Inventor
+15%
+inclusion
+56 decks
+372 decks
+3.4x
+lift
+Blightsteel Colossus
+15%
+inclusion
+150 decks
+1K decks
+3.4x
+lift
+Ornithopter of Paradise
+14%
+inclusion
+143 decks
+1K decks
+1.3x
+lift
+Myr Retriever
+14%
+inclusion
+139 decks
+1K decks
+3.4x
+lift
+Memnite
+13%
+inclusion
+135 decks
+1K decks
+4.3x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Jin-Gitaxias, Progress Tyrant
+13%
+inclusion
+133 decks
+1K decks
+2.0x
+lift
+Krang, Utrom Warlord
+13%
+inclusion
+74 decks
+587 decks
+3.6x
+lift
+Mm'menon, the Right Hand
+12%
+inclusion
+101 decks
+820 decks
+3.5x
+lift
+Scrap Trawler
+12%
+inclusion
+122 decks
+1K decks
+3.0x
+lift
+Ultron, Artificial Malevolence
+12%
+inclusion
+45 decks
+371 decks
+4.6x
+lift
+Wurmcoil Engine
+12%
+inclusion
+117 decks
+1K decks
+4.0x
+lift
+Memnarch
+12%
+inclusion
+116 decks
+1K decks
+5.5x
+lift
+Hydroelectric Specimen
+11%
+inclusion
+110 decks
+1K decks
+0.6x
+lift
+Unctus, Grand Metatect
+11%
+inclusion
+108 decks
+1K decks
+2.1x
+lift
+Shimmer Dragon
+11%
+inclusion
+108 decks
+1K decks
+4.3x
+lift
+The Mechanist, Aerial Artisan
+10%
+inclusion
+72 decks
+686 decks
+4.8x
+lift
+Thassa, Deep-Dwelling
+10%
+inclusion
+99 decks
+1K decks
+1.9x
+lift
+Sharding Sphinx
+10%
+inclusion
+98 decks
+1K decks
+2.6x
+lift
+Chrome Host Seedshark
+10%
+inclusion
+97 decks
+1K decks
+2.6x
+lift
+Tidespout Tyrant
+9.1%
+inclusion
+91 decks
+1K decks
+3.1x
+lift
+Stridehangar Automaton
+8.9%
+inclusion
+89 decks
+999 decks
+2.3x
+lift
+Arcum Dagsson
+8.7%
+inclusion
+87 decks
+1K decks
+6.3x
+lift
+Riddlesmith
+8.7%
+inclusion
+87 decks
+1K decks
+2.4x
+lift
+Instants
+Dramatic Reversal
+44%
+inclusion
+439 decks
+1K decks
+3.5x
+lift
+An Offer You Can't Refuse
+43%
+inclusion
+434 decks
+1K decks
+1.0x
+lift
+Whir of Invention
+40%
+inclusion
+399 decks
+1K decks
+3.7x
+lift
+Negate
+39%
+inclusion
+389 decks
+1K decks
+1.1x
+lift
+Cyclonic Rift
+38%
+inclusion
+386 decks
+1K decks
+1.1x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Pongify
+35%
+inclusion
+352 decks
+1K decks
+0.8x
+lift
+Brainstorm
+35%
+inclusion
+351 decks
+1K decks
+0.8x
+lift
+Swan Song
+34%
+inclusion
+341 decks
+1K decks
+1.2x
+lift
+Arcane Denial
+34%
+inclusion
+337 decks
+1K decks
+0.8x
+lift
+Mana Drain
+31%
+inclusion
+310 decks
+1K decks
+1.1x
+lift
+Rapid Hybridization
+28%
+inclusion
+279 decks
+1K decks
+0.7x
+lift
+Scour for Scrap
+23%
+inclusion
+190 decks
+810 decks
+3.0x
+lift
+Reality Shift
+23%
+inclusion
+233 decks
+1K decks
+0.8x
+lift
+Muddle the Mixture
+22%
+inclusion
+225 decks
+1K decks
+1.5x
+lift
+Sink into Stupor
+21%
+inclusion
+210 decks
+1K decks
+0.7x
+lift
+Resculpt
+18%
+inclusion
+176 decks
+1K decks
+1.0x
+lift
+Force of Negation
+17%
+inclusion
+170 decks
+1K decks
+1.4x
+lift
+Ghostly Flicker
+17%
+inclusion
+167 decks
+1K decks
+1.2x
+lift
+Desynchronization
+16%
+inclusion
+156 decks
+1K decks
+2.7x
+lift
+Essence Flux
+14%
+inclusion
+140 decks
+1K decks
+1.3x
+lift
+Thirst for Knowledge
+14%
+inclusion
+137 decks
+1K decks
+2.8x
+lift
+Flusterstorm
+14%
+inclusion
+136 decks
+1K decks
+2.1x
+lift
+Aetherize
+13%
+inclusion
+135 decks
+1K decks
+0.4x
+lift
+Mystical Tutor
+13%
+inclusion
+130 decks
+1K decks
+0.8x
+lift
+Pact of Negation
+13%
+inclusion
+129 decks
+1K decks
+2.2x
+lift
+Spell Pierce
+12%
+inclusion
+124 decks
+1K decks
+1.6x
+lift
+Dispel
+12%
+inclusion
+121 decks
+1K decks
+1.9x
+lift
+Fierce Guardianship
+12%
+inclusion
+121 decks
+1K decks
+0.7x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+High Tide
+11%
+inclusion
+111 decks
+1K decks
+0.2x
+lift
+Archmage's Charm
+11%
+inclusion
+108 decks
+1K decks
+0.5x
+lift
+Frantic Search
+11%
+inclusion
+107 decks
+1K decks
+0.3x
+lift
+Narset's Reversal
+10%
+inclusion
+99 decks
+1K decks
+0.7x
+lift
+Strix Serenade
+10%
+inclusion
+96 decks
+1K decks
+1.2x
+lift
+Opt
+8.8%
+inclusion
+88 decks
+1K decks
+0.4x
+lift
+Planar Incision
+8.8%
+inclusion
+88 decks
+1K decks
+1.6x
+lift
+Blur
+8.7%
+inclusion
+87 decks
+1K decks
+1.5x
+lift
+Cryptic Command
+8.7%
+inclusion
+87 decks
+1K decks
+0.6x
+lift
+Three Steps Ahead
+8.5%
+inclusion
+85 decks
+1K decks
+0.6x
+lift
+Blue Sun's Zenith
+8.2%
+inclusion
+82 decks
+1K decks
+0.7x
+lift
+Paradoxical Outcome
+8.1%
+inclusion
+81 decks
+1K decks
+4.7x
+lift
+Teferi's Time Twist
+8.1%
+inclusion
+81 decks
+1K decks
+1.3x
+lift
+Stoic Rebuttal
+7.7%
+inclusion
+77 decks
+1K decks
+3.3x
+lift
+Access Denied
+7.5%
+inclusion
+75 decks
+1K decks
+2.3x
+lift
+Force of Will
+7.4%
+inclusion
+74 decks
+1K decks
+0.8x
+lift
+March of Swirling Mist
+7.2%
+inclusion
+72 decks
+1K decks
+0.7x
+lift
+Snap
+6.9%
+inclusion
+69 decks
+1K decks
+0.3x
+lift
+Chain of Vapor
+6.8%
+inclusion
+68 decks
+1K decks
+2.2x
+lift
+Mana Leak
+6.5%
+inclusion
+65 decks
+1K decks
+1.3x
+lift
+Misdirection
+6.4%
+inclusion
+64 decks
+1K decks
+1.1x
+lift
+Flare of Denial
+6.3%
+inclusion
+63 decks
+1K decks
+0.7x
+lift
+Sorceries
+Thoughtcast
+38%
+inclusion
+378 decks
+1K decks
+4.2x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Ponder
+25%
+inclusion
+255 decks
+1K decks
+0.9x
+lift
+Reshape
+25%
+inclusion
+253 decks
+1K decks
+5.1x
+lift
+Windfall
+17%
+inclusion
+166 decks
+1K decks
+0.8x
+lift
+Preordain
+15%
+inclusion
+152 decks
+1K decks
+0.6x
+lift
+One with the Machine
+12%
+inclusion
+124 decks
+1K decks
+3.8x
+lift
+Sea Gate Restoration
+12%
+inclusion
+120 decks
+1K decks
+0.7x
+lift
+Solve the Equation
+12%
+inclusion
+116 decks
+1K decks
+1.0x
+lift
+Merchant Scroll
+8.3%
+inclusion
+83 decks
+1K decks
+1.1x
+lift
+March of Progress
+8.2%
+inclusion
+82 decks
+1K decks
+5.7x
+lift
+Gitaxian Probe
+7.5%
+inclusion
+75 decks
+1K decks
+0.7x
+lift
+Rise and Shine
+7.0%
+inclusion
+70 decks
+1K decks
+2.7x
+lift
+All Is Dust
+6.8%
+inclusion
+68 decks
+1K decks
+3.8x
+lift
+Utility Artifacts
+Sensei's Divining Top
+42%
+inclusion
+420 decks
+1K decks
+3.3x
+lift
+Tormod's Crypt
+40%
+inclusion
+405 decks
+1K decks
+6.0x
+lift
+Mishra's Bauble
+39%
+inclusion
+388 decks
+1K decks
+4.9x
+lift
+Swiftfoot Boots
+38%
+inclusion
+382 decks
+1K decks
+1.3x
+lift
+Aether Spellbomb
+36%
+inclusion
+365 decks
+1K decks
+4.9x
+lift
+Simulacrum Synthesizer
+36%
+inclusion
+359 decks
+1K decks
+5.2x
+lift
+Howling Mine
+36%
+inclusion
+358 decks
+1K decks
+5.8x
+lift
+Isochron Scepter
+34%
+inclusion
+344 decks
+1K decks
+3.0x
+lift
+Lightning Greaves
+34%
+inclusion
+340 decks
+1K decks
+1.2x
+lift
+Welding Jar
+31%
+inclusion
+311 decks
+1K decks
+6.7x
+lift
+Manifold Key
+29%
+inclusion
+292 decks
+1K decks
+5.6x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Cloud Key
+28%
+inclusion
+280 decks
+1K decks
+3.6x
+lift
+Sculpting Steel
+27%
+inclusion
+275 decks
+1K decks
+3.9x
+lift
+Uthros Research Craft
+27%
+inclusion
+224 decks
+821 decks
+3.8x
+lift
+Conjurer's Closet
+24%
+inclusion
+237 decks
+1K decks
+4.2x
+lift
+Darksteel Forge
+20%
+inclusion
+204 decks
+1K decks
+4.3x
+lift
+Voltaic Key
+20%
+inclusion
+202 decks
+1K decks
+5.3x
+lift
+Spellbook
+20%
+inclusion
+199 decks
+1K decks
+3.8x
+lift
+Rings of Brighthearth
+20%
+inclusion
+196 decks
+1K decks
+5.6x
+lift
+The One Ring
+19%
+inclusion
+189 decks
+1K decks
+2.3x
+lift
+Urza's Bauble
+17%
+inclusion
+168 decks
+1K decks
+4.4x
+lift
+Aetherflux Reservoir
+15%
+inclusion
+154 decks
+1K decks
+3.0x
+lift
+Codex Shredder
+15%
+inclusion
+146 decks
+1K decks
+3.6x
+lift
+Worldwalker Helm
+14%
+inclusion
+141 decks
+1K decks
+4.7x
+lift
+Forsaken Monument
+13%
+inclusion
+132 decks
+1K decks
+3.6x
+lift
+Repurposing Bay
+13%
+inclusion
+129 decks
+999 decks
+3.4x
+lift
+Soul-Guide Lantern
+12%
+inclusion
+125 decks
+1K decks
+2.2x
+lift
+Vedalken Orrery
+12%
+inclusion
+124 decks
+1K decks
+4.1x
+lift
+Panharmonicon
+12%
+inclusion
+120 decks
+1K decks
+2.4x
+lift
+Wayfarer's Bauble
+12%
+inclusion
+119 decks
+1K decks
+0.7x
+lift
+Ichor Wellspring
+12%
+inclusion
+119 decks
+1K decks
+4.7x
+lift
+Nettlecyst
+12%
+inclusion
+118 decks
+1K decks
+4.0x
+lift
+Expedition Map
+12%
+inclusion
+117 decks
+1K decks
+2.4x
+lift
+Sewer-veillance Cam
+11%
+inclusion
+62 decks
+544 decks
+4.6x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Cryogen Relic
+10%
+inclusion
+83 decks
+814 decks
+2.8x
+lift
+Encroaching Mycosynth
+10%
+inclusion
+100 decks
+1K decks
+3.0x
+lift
+Mycosynth Lattice
+10%
+inclusion
+99 decks
+1K decks
+4.5x
+lift
+Skullclamp
+9.1%
+inclusion
+91 decks
+1K decks
+1.1x
+lift
+Grafdigger's Cage
+9.1%
+inclusion
+91 decks
+1K decks
+3.7x
+lift
+Insight Engine
+8.9%
+inclusion
+73 decks
+821 decks
+1.4x
+lift
+Portal to Phyrexia
+8.6%
+inclusion
+86 decks
+1K decks
+1.5x
+lift
+Darksteel Relic
+7.8%
+inclusion
+78 decks
+1K decks
+6.4x
+lift
+Stone of Erech
+7.8%
+inclusion
+78 decks
+1K decks
+5.5x
+lift
+Chimil, the Inner Sun
+7.7%
+inclusion
+77 decks
+1K decks
+1.7x
+lift
+Retrofitter Foundry
+7.6%
+inclusion
+76 decks
+1K decks
+4.5x
+lift
+Bident of Thassa
+7.6%
+inclusion
+76 decks
+1K decks
+0.6x
+lift
+Witching Well
+7.4%
+inclusion
+74 decks
+1K decks
+5.5x
+lift
+Akroma's Memorial
+7.0%
+inclusion
+70 decks
+1K decks
+3.3x
+lift
+Sword of Hearth and Home
+6.4%
+inclusion
+64 decks
+1K decks
+2.7x
+lift
+Mirage Mirror
+6.2%
+inclusion
+62 decks
+1K decks
+1.7x
+lift
+Enchantments
+Thopter Spy Network
+36%
+inclusion
+359 decks
+1K decks
+4.5x
+lift
+Mystic Remora
+30%
+inclusion
+303 decks
+1K decks
+1.1x
+lift
+Efficient Construction
+30%
+inclusion
+301 decks
+1K decks
+4.9x
+lift
+Rhystic Study
+30%
+inclusion
+299 decks
+1K decks
+1.0x
+lift
+Mechanized Production
+26%
+inclusion
+262 decks
+1K decks
+3.6x
+lift
+Mirrodin Besieged
+21%
+inclusion
+208 decks
+1K decks
+4.4x
+lift
+Propaganda
+19%
+inclusion
+193 decks
+1K decks
+0.6x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Unstoppable Plan
+16%
+inclusion
+156 decks
+998 decks
+2.1x
+lift
+Training Grounds
+12%
+inclusion
+122 decks
+1K decks
+1.7x
+lift
+Artificer Class
+8.1%
+inclusion
+81 decks
+1K decks
+3.1x
+lift
+Copy Artifact
+7.3%
+inclusion
+73 decks
+1K decks
+3.8x
+lift
+Mirrormade
+6.6%
+inclusion
+66 decks
+1K decks
+1.3x
+lift
+Imprisoned in the Moon
+6.2%
+inclusion
+62 decks
+1K decks
+0.5x
+lift
+The Antiquities War
+6.1%
+inclusion
+61 decks
+1K decks
+6.2x
+lift
+Leyline of Anticipation
+5.8%
+inclusion
+58 decks
+1K decks
+0.7x
+lift
+Planeswalkers
+Tezzeret the Seeker
+29%
+inclusion
+288 decks
+1K decks
+4.5x
+lift
+Tezzeret, Cruel Captain
+23%
+inclusion
+193 decks
+845 decks
+4.1x
+lift
+Narset, Parter of Veils
+12%
+inclusion
+122 decks
+1K decks
+1.8x
+lift
+Ugin, Eye of the Storms
+12%
+inclusion
+114 decks
+939 decks
+5.1x
+lift
+Tezzeret, Artifice Master
+12%
+inclusion
+116 decks
+1K decks
+3.3x
+lift
+Karn, the Great Creator
+10%
+inclusion
+105 decks
+1K decks
+6.6x
+lift
+Tezzeret, Betrayer of Flesh
+6.8%
+inclusion
+68 decks
+1K decks
+3.1x
+lift
+Ugin, the Ineffable
+6.7%
+inclusion
+67 decks
+1K decks
+4.2x
+lift
+Utility Lands
+Seat of the Synod
+70%
+inclusion
+706 decks
+1K decks
+3.6x
+lift
+Darksteel Citadel
+58%
+inclusion
+584 decks
+1K decks
+4.6x
+lift
+Academy Ruins
+48%
+inclusion
+480 decks
+1K decks
+2.2x
+lift
+Buried Ruin
+45%
+inclusion
+454 decks
+1K decks
+3.2x
+lift
+Urza's Saga
+43%
+inclusion
+430 decks
+1K decks
+2.7x
+lift
+Inventors' Fair
+42%
+inclusion
+420 decks
+1K decks
+3.3x
+lift
+Reliquary Tower
+41%
+inclusion
+416 decks
+1K decks
+0.7x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Uthros, Titanic Godcore
+37%
+inclusion
+306 decks
+822 decks
+3.5x
+lift
+Mystic Sanctuary
+33%
+inclusion
+328 decks
+1K decks
+0.6x
+lift
+Archway of Innovation
+28%
+inclusion
+276 decks
+1K decks
+2.2x
+lift
+Urza's Tower
+26%
+inclusion
+257 decks
+1K decks
+5.9x
+lift
+Urza's Power Plant
+26%
+inclusion
+256 decks
+1K decks
+5.9x
+lift
+Otawara, Soaring City
+25%
+inclusion
+255 decks
+1K decks
+0.9x
+lift
+Urza's Mine
+25%
+inclusion
+254 decks
+1K decks
+5.9x
+lift
+Treasure Vault
+21%
+inclusion
+211 decks
+1K decks
+5.1x
+lift
+Rogue's Passage
+17%
+inclusion
+168 decks
+1K decks
+1.0x
+lift
+Fomori Vault
+16%
+inclusion
+161 decks
+1K decks
+4.2x
+lift
+War Room
+14%
+inclusion
+140 decks
+1K decks
+0.7x
+lift
+Minamo, School at Water's Edge
+12%
+inclusion
+124 decks
+1K decks
+1.0x
+lift
+Cephalid Coliseum
+10%
+inclusion
+97 decks
+1K decks
+1.0x
+lift
+Temple of the False God
+9.4%
+inclusion
+94 decks
+1K decks
+1.0x
+lift
+Urza's Workshop
+9.3%
+inclusion
+93 decks
+1K decks
+5.4x
+lift
+Castle Vantress
+9.3%
+inclusion
+93 decks
+1K decks
+0.5x
+lift
+Mistrise Village
+8.7%
+inclusion
+82 decks
+939 decks
+0.9x
+lift
+Emergence Zone
+7.6%
+inclusion
+76 decks
+1K decks
+1.8x
+lift
+Tolaria West
+7.4%
+inclusion
+74 decks
+1K decks
+1.1x
+lift
+Lonely Sandbar
+5.7%
+inclusion
+57 decks
+1K decks
+0.4x
+lift
+Command Beacon
+5.7%
+inclusion
+57 decks
+1K decks
+1.1x
+lift
+Ancient Tomb
+5.3%
+inclusion
+53 decks
+1K decks
+1.1x
+lift
+Blast Zone
+5.1%
+inclusion
+51 decks
+1K decks
+2.5x
+lift
+Mana Artifacts
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Sol Ring
+94%
+inclusion
+943 decks
+1K decks
+1.1x
+lift
+Arcane Signet
+69%
+inclusion
+689 decks
+1K decks
+1.1x
+lift
+Everflowing Chalice
+53%
+inclusion
+528 decks
+1K decks
+3.5x
+lift
+Thought Vessel
+45%
+inclusion
+454 decks
+1K decks
+0.8x
+lift
+Mind Stone
+44%
+inclusion
+437 decks
+1K decks
+1.2x
+lift
+Basalt Monolith
+32%
+inclusion
+321 decks
+1K decks
+5.1x
+lift
+Lotus Petal
+27%
+inclusion
+266 decks
+1K decks
+3.5x
+lift
+Fellwar Stone
+24%
+inclusion
+236 decks
+1K decks
+1.2x
+lift
+Mox Opal
+21%
+inclusion
+210 decks
+1K decks
+3.9x
+lift
+Crystal Skull, Isu Spyglass
+18%
+inclusion
+183 decks
+1K decks
+3.3x
+lift
+Thran Dynamo
+18%
+inclusion
+182 decks
+1K decks
+1.3x
+lift
+Liquimetal Torque
+17%
+inclusion
+170 decks
+1K decks
+2.2x
+lift
+Midnight Clock
+14%
+inclusion
+139 decks
+1K decks
+0.7x
+lift
+Mox Amber
+11%
+inclusion
+112 decks
+1K decks
+2.0x
+lift
+Jeweled Amulet
+11%
+inclusion
+108 decks
+1K decks
+5.7x
+lift
+Blinkmoth Urn
+11%
+inclusion
+106 decks
+1K decks
+8.9x
+lift
+Mana Vault
+8.8%
+inclusion
+88 decks
+1K decks
+2.8x
+lift
+Sky Diamond
+8.5%
+inclusion
+85 decks
+1K decks
+0.4x
+lift
+Gilded Lotus
+7.9%
+inclusion
+79 decks
+1K decks
+0.7x
+lift
+Commander's Sphere
+7.2%
+inclusion
+72 decks
+1K decks
+1.0x
+lift
+Hedron Archive
+6.9%
+inclusion
+69 decks
+1K decks
+1.3x
+lift
+The Eternity Elevator
+6.1%
+inclusion
+50 decks
+822 decks
+2.2x
+lift
+Extraplanar Lens
+6.1%
+inclusion
+61 decks
+1K decks
+0.6x
+lift
+Please consider supporting us on Patreon to remove ads for only $2/month.
+Worn Powerstone
+5.4%
+inclusion
+54 decks
+1K decks
+1.0x
+lift
+Prismatic Lens
+5.1%
+inclusion
+51 decks
+1K decks
+1.6x
+lift
+Lands
+Island
+95%
+inclusion
+948 decks
+1K decks
+1.0x
+lift
+Sink into Stupor
+21%
+inclusion
+210 decks
+1K decks
+0.7x
+lift
+The Mycosynth Gardens
+19%
+inclusion
+188 decks
+1K decks
+2.9x
+lift
+Urza's Cave
+12%
+inclusion
+122 decks
+1K decks
+2.1x
+lift
+Sea Gate Restoration
+12%
+inclusion
+120 decks
+1K decks
+0.7x
+lift
+Hydroelectric Specimen
+11%
+inclusion
+110 decks
+1K decks
+0.6x
+lift
+Myriad Landscape
+11%
+inclusion
+108 decks
+1K decks
+0.4x
+lift
+Flooded Strand
+11%
+inclusion
+107 decks
+1K decks
+1.3x
+lift
+Polluted Delta
+10%
+inclusion
+98 decks
+1K decks
+1.3x
+lift
+Misty Rainforest
+9.3%
+inclusion
+93 decks
+1K decks
+1.3x
+lift
+Command Tower
+8.7%
+inclusion
+87 decks
+1K decks
+2.1x
+lift
+Snow-Covered Island
+8.5%
+inclusion
+85 decks
+1K decks
+1.0x
+lift
+Scalding Tarn
+8.1%
+inclusion
+81 decks
+1K decks
+1.2x
+lift
+Gemstone Caverns
+5.8%
+inclusion
+58 decks
+1K decks
+1.9x
+lift
+Prismatic Vista
+5.7%
+inclusion
+57 decks
+1K decks
+1.3x
+lift
+About Us
+Contact
+Privacy Policy
+Terms of Service
+Space Cow Media
+Archidekt
+Cardsphere
+Commander Spellbook
+FABREC
+Spellvoid
+EDHREC is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
+Urza, Lord High Artificer (Commander) - Upgraded | EDHREC
